@@ -1,0 +1,15 @@
+{
+  "name": "connpass2sheet",
+  "version": "1.0.0",
+  "description": "Google Apps Script which copies connpass events to spreadsheet.",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["GoogleAppsScript", "Connpass", "clasp"],
+  "author": "rch850 <rich850@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/google-apps-script": "0.0.44"
+  }
+}
